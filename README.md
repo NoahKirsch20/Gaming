@@ -12,7 +12,7 @@ ___
 ---
 ### Top 5 games *currently*
 
-1. [World of Warcraft](https://worldofwarcraft.com/en-us/)
+1. [World of Warcraft](https://worldofwarcraft.com/en-us/) ![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiCk56VopvmAhUIRKwKHW8wBYQQjRx6BAgBEAQ&url=https%3A%2F%2Fyuki.la%2Fwg%2F6887669&psig=AOvVaw3_2pHlSiTcdKB1nssUB8Z3&ust=1575523930266974)
 2. [Call of Duty](https://www.callofduty.com/modernwarfare)
 3. [Diablo 3](https://us.diablo3.com/en/)
 4. [Counter-Strike series](https://blog.counter-strike.net/)
