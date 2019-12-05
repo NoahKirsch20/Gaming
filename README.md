@@ -9,11 +9,12 @@ ___
  - World of Warcraft
   - Played for 12 years
   
+  ![](https://upload.wikimedia.org/wikipedia/en/thumb/9/91/WoW_Box_Art1.jpg/220px-WoW_Box_Art1.jpg)
+  
 ---
 ### Top 5 games *currently*
 
 1. [World of Warcraft](https://worldofwarcraft.com/en-us/)
-![](https://upload.wikimedia.org/wikipedia/en/thumb/9/91/WoW_Box_Art1.jpg/220px-WoW_Box_Art1.jpg)
 2. [Call of Duty](https://www.callofduty.com/modernwarfare)
 3. [Diablo 3](https://us.diablo3.com/en/)
 4. [Counter-Strike series](https://blog.counter-strike.net/)
