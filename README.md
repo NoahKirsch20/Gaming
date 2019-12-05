@@ -18,3 +18,10 @@ ___
 3. [Diablo 3](https://us.diablo3.com/en/)
 4. [Counter-Strike series](https://blog.counter-strike.net/)
 5. [Grand Theft Auto 5](https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us)
+
+### Navigation
+- [Home Page](https://noahkirsch20.github.io/FinalProject/)
+- [College Football](https://noahkirsch20.github.io/College-Football/)
+- [Comedies](https://noahkirsch20.github.io/Comedies/)
+- [Travel](https://noahkirsch20.github.io/States/)
+- [Outdoors](https://noahkirsch20.github.io/Outdoor/)
